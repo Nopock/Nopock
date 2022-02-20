@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Nopock/Nopock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ooby Discord Bot.
 - 🌱 I’m currently learning Java.
@@ -13,4 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord (Nopox#5829) Telegram (@Nopocks)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am 14.
--->
+
+
