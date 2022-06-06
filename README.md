@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nopock&label=Profile%20views&color=0e75b6&style=flat" alt="nopock" /> </p>
 
-- 🔭 I’m currently working on **Ooby**
+- 🔭 I’m currently working on **Tacker.cc**
 
 - 🌱 I’m currently learning **Java.**
 
-- 👯 I’m looking to collaborate on **Ooby Discord Bot (Java)**
+- 👯 I’m looking to collaborate on **Nothing ATM**
 
 - 💬 Ask me about **Minecraft!**
 
 - 📄 Know about my experiences [None](None)
 
-- ⚡ Fun fact **I am not a furry!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
