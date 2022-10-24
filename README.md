@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nopock&label=Profile%20views&color=0e75b6&style=flat" alt="nopock" /> </p>
+<a href="https://wakatime.com/@4e24931d-6570-4134-bc2a-f0e0a718c84b"><img src="https://wakatime.com/badge/user/4e24931d-6570-4134-bc2a-f0e0a718c84b.svg" alt="Total time coded since Sep 12 2022" /></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
